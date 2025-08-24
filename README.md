@@ -83,7 +83,8 @@ Simon Valenzuela
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/license/mit)  - see the LICENSE.md file for details
+
 ---
 
 ## Acknowledgments
